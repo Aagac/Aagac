@@ -29,7 +29,7 @@ Hi there, I'm Ahmet 👋
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 512px; height: 340px; margin: 0px; width: 351px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
+<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 12px; height: 40px; margin: 0px; width: 51px;" alt="Selenium&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" data-ilt="1688656347572">
 
 
 # 📊 GitHub Stats:
