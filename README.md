@@ -12,12 +12,11 @@ Hi there, I'm Ahmet 👋
 
 - My Java & Lambda skills
 - My HTML-CSS skills
-
-
-### 🌱 I'm currently learning
-
+- Python
 - Selenium
 - Jira
+
+### 🌱 I'm currently learning
 - AWS
 - Jenkins
 - Appium
