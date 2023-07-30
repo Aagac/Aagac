@@ -4,11 +4,6 @@
 Hi there, I'm Ahmet 👋
 </h3>
 
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BClhan-tezcan-3895b5268/) 
-https://medium.com/@a.agac0668
-
-
 ### 🔭 I’m currently working on
 
 - My Java & Lambda skills
